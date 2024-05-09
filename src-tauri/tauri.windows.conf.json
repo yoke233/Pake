@@ -22,6 +22,9 @@
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
+        "webviewInstallMode": {
+          "type": "offlineInstaller"
+        },
         "wix": {
           "language": [
             "zh-CN"

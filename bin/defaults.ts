@@ -22,7 +22,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
 // Just for cli development
 export const DEFAULT_DEV_PAKE_OPTIONS: PakeCliOptions & { url: string } = {
   ...DEFAULT_PAKE_OPTIONS,
-  url: 'https://xiaoin.com.cn/home/index?sharerUserId=1782356704164331521',
+  url: 'https://xiaoin.com.cn',
   name: 'Xiaoin',
   safeDomain: ['xiaoin.com.cn'],
   transparent: true,

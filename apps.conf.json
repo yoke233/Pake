@@ -1,10 +1,10 @@
 {
   "apps": [
-    {
-      "name": "xiaoin",
-      "title": "XiaoIn",
-      "name_zh": "万能小in",
-      "url": "https://xiaoin.com.cn/home/index?sharerUserId=1782356704164331521"
-    }
+    // {
+    //   "name": "xiaoin",
+    //   "title": "XiaoIn",
+    //   "name_zh": "万能小in",
+    //   "url": "https://xiaoin.com.cn/home/index?sharerUserId=1782356704164331521"
+    // }
   ]
 }
